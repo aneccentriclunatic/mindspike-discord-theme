@@ -79,7 +79,7 @@
 } */
 
 body *, ::placeholder {
-    font-family: "beech" !important;
+    font-family: "spacemono" !important;
 	font-size: 0.8rem;
 	font-variant-ligatures: none !important;
 }
