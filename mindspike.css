@@ -20,6 +20,12 @@
     src: url("assets/NewspaperCutoutWhiteOnBlac-Rg.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: "beech";
+    font-weight: normal;
+    src: url("assets/beech.ttf");
+}
+
 
 :root {
 	--mindspike-chat-color0: aqua;
@@ -73,7 +79,7 @@
 } */
 
 body *, ::placeholder {
-    font-family: "spacemono" !important;
+    font-family: "beech" !important;
 	font-size: 0.8rem;
 	font-variant-ligatures: none !important;
 }
