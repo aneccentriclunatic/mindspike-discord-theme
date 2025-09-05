@@ -1747,9 +1747,9 @@ body *, ::placeholder {
 	color: var(--mindspike-emoji-picker-color0);
 }
 
-.navButtonActive__08434 {
+/*.navButtonActive__08434 {
 	background: var(--mindspike-emoji-picker-color0);
-}
+}*/
 
 .navButtonActive__08434 * {
 	color: black !important;
