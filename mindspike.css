@@ -68,9 +68,11 @@
 	--text-positive: aqua;
 }
 
-/* .colorBrand__201d5 {
-	background-color: #FF0066;
-} */
+/* Every thing new start*/
+.content__99f8c > .containerDefault__29444 * {
+	font-size: 1.1em;
+}
+/*everything new end*/
 
 body *, ::placeholder {
     font-family: "spacemono" !important;
