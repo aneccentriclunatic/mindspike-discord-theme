@@ -75,6 +75,16 @@
 .dm__972a0 .overflow__82b15 {
 	font-size: 0.9em;
 }
+.navList__08434 * {
+	font-family: barcodetext !important;
+	font-size: 2em !important;
+}
+.nav__08434 * :hover {
+	background-color: aqua;
+}
+.wrapper__6e9f8 .acronym__6e9f8 {
+	font-size: 1em;
+}
 /*everything new end*/
 
 body *, ::placeholder {
