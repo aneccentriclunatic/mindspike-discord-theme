@@ -85,6 +85,24 @@
 .wrapper__6e9f8 .acronym__6e9f8 {
 	font-size: 1em !important;
 }
+.content__99f8c > .containerDefault__29444 * {
+	font-family: spacemono !important;
+    font-size: 1.03em;
+}
+.username__0a06e{
+    font-size: 1.2em;
+}
+/*.content__99f8c > .dm__972a0{
+    margin-top: 2px;
+}
+*/
+.membersGroup_c8ffbb > *:nth-child(1){
+    font-size: 2.5em;
+}
+.membersGroup_c8ffbb > *:nth-child(2){
+    display: none;
+    font-size: 0px;
+}
 /*everything new end*/
 
 body *, ::placeholder {
